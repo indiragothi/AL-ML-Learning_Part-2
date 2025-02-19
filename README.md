@@ -1,35 +1,39 @@
-Hello Guys,
-I have been working really hard from the past 6 months to create my udemy course on Complete Machine Learning And NLP With End to End Project With MLOPS and Deployment. Finally the course is live
-https://bit.ly/3V0S0jS
+# Complete Data Science, Machine Learning, DL, NLP Bootcamp
 
-This course has been a labor of love, dedication, and countless hours of hard work over the past six months. I've poured my heart and soul into creating something truly special for all of you. From early mornings to late nights, every minute spent recording and perfecting this course was driven by my passion to provide the best learning experience possible.
+## Course Contents
 
-In this comprehensive course, we will journey together through the fascinating world of Machine Learning and NLP, diving deep into:
+### 1. Data Science Fundamentals
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
 
-The fundamentals and advanced concepts of Machine Learning 📊
-Supervised and unsupervised learning algorithms 🔍
-Deep learning and CNNs for an intuitive understanding of complex models 🤖
-Cutting-edge NLP techniques and projects 📝
-Essential MLOps tools like CI/CD pipelines, GitHub Actions, MLflow, BentoML, and DVC for seamless project management and deployment 🚀
+### 2. Machine Learning
+- Supervised Learning (Regression, Classification)
+- Unsupervised Learning (Clustering, Dimensionality Reduction)
+- Model evaluation and hyperparameter tuning
 
-But this course is not just about theory; it's about hands-on, practical experience with end-to-end projects that will prepare you for real-world applications. Whether you're a beginner or looking to sharpen your skills, there's something valuable for everyone.
+### 3. Deep Learning
+- Neural Networks and Backpropagation
+- Convolutional Neural Networks (CNNs)
+- Recurrent Neural Networks (RNNs) and LSTMs
 
-Your support has always been my greatest motivation. 
+### 4. Natural Language Processing (NLP)
+- Text preprocessing techniques
+- Named Entity Recognition (NER)
+- Sentiment Analysis
+- Transformer models (BERT, GPT, etc.)
 
-This course currently will have more than 215+ lectures and around 50+ hours of high quality content recordings.
-This course cost will be Rs 399 INR for lifetime which is set by udemy for the first 2 days.
+### 5. MLOps and Deployment
+- CI/CD pipelines for ML
+- Model versioning and tracking with MLflow and DVC
+- Deployment using BentoML, Docker, and Kubernetes
 
-Please find the course link below
-https://bit.ly/3V0S0jS
+## Tools & Technologies Covered
+- **Programming & Libraries:** Python, NumPy, Pandas, Matplotlib, Seaborn
+- **Machine Learning Frameworks:** Scikit-Learn, TensorFlow, PyTorch
+- **NLP Libraries:** SpaCy, NLTK, Hugging Face Transformers
+- **MLOps & Deployment:** Docker, Kubernetes, MLflow, BentoML, GitHub Actions
+ 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-If you are not satisifed by the  course there is a 30 days refund policy also from udemy. 
-
-This link is valid for 2 days at this price, then udemy takes the control of the price.
-
-
-Note: The complete course recordings are by me
-Will be posting all the course info tomorrow. Happy Learning!!
-Thank you for being part of this incredible journey. Your feedback and enthusiasm mean the world to me. Let's embark on this learning adventure together!
-
-Your's
-Krish Naik
