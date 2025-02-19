@@ -1,0 +1,4 @@
+1. Divide the feature based on independent and dependent features
+2. Train test split of the dataset
+3. Standardize the dataset
+4. Train the model using Linear Regression 
